@@ -1,0 +1,8 @@
+pair - tiebreaker - single win (pair on pair edge case, higher rank decides)
+
+3
+0 3c 3s 2d
+1 4h 4d 2h
+2 3c 6d 9s
+
+1
