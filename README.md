@@ -65,10 +65,17 @@ Straight Flush > Three of a Kind > Straight > Flush > Pair > High Card
 
 # TO RUN MY WONDERFUL PROGRAM
 
+Make sure Python 3 is installed.
+
+From the command line:
+```
+python run_my_tests3 "python poker.py"
+```
+
+From Bash:
 ```
 ./run_my_tests3 "python poker.py"
 ```
-
 
 # THOUGHTS/NOTES
 
